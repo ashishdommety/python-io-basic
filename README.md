@@ -1,2 +1,2 @@
-# python-io-basic
-A simple command line question game with python
+# Command Line Python Story 🐍
+A simple command line story-telling Python Program
